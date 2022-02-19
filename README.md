@@ -15,6 +15,11 @@ File -> Open 으로 연 프로그램에 대한 정보를 보여 준다.
 * 명령어 하나 실행
 * 모든 명령어 실행 (PC 값이 0xFFFFFF가 될 때까지 실행)
 ## Memory 탭
+![memory tab](https://user-images.githubusercontent.com/21188135/154781687-1e26f56e-801c-4929-865d-1a2d25ef8e10.png)   
+SIC/XE 가상 머신의 전체 메모리를 16진법으로 보여 준다. 우측에서 문자형으로도 확인할 수 있다. PC가 가리키는 명령어는 파란색으로 강조한다.
 ## Symbol 탭
+![symbol tab](https://user-images.githubusercontent.com/21188135/154781798-d66c0dda-41b1-4320-91b8-28e7d9a36404.png)   
+object code에서 사용한 symbol을 보여 준다.
 ## Device 탭
-
+![device tab](https://user-images.githubusercontent.com/21188135/154781854-20ed1a03-0401-4dcf-b162-06a26d58377c.png)   
+가상 장치를 추가 및 제거하거나 장치의 버퍼에 들어간 문자열 값을 확인할 수 있다.
