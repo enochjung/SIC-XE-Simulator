@@ -23,3 +23,5 @@ object code에서 사용한 symbol을 보여 준다.
 ## Device 탭
 ![device tab](https://user-images.githubusercontent.com/21188135/154781854-20ed1a03-0401-4dcf-b162-06a26d58377c.png)   
 가상 장치를 추가 및 제거하거나 장치의 버퍼에 들어간 문자열 값을 확인할 수 있다.
+
+참고**만**하세요!!
